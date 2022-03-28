@@ -57,3 +57,5 @@ The live URL for the tech blog app in Heroku is given below.
 Live URL: https://tech-blog38.herokuapp.com/
 
 
+## Screenshot
+![screenshot](./sc/tech.PNG)
